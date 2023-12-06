@@ -5,15 +5,19 @@ TagManager:
   serializedVersion: 2
   tags:
   - Cheese
+  - RedCircle
+  - YellowSquare
+  - Triangle
+  - SpawnedPrefab
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Gameplay
   - Water
   - UI
-  - 
-  - 
+  - Below
+  - Above
   - 
   - 
   - 
@@ -39,6 +43,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1829743705
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

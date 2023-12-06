@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class ChangeToMaze : MonoBehaviour
 {
     private void OnMouseDown(){
-        SceneManager.LoadScene("Maze");
+        SceneManager.LoadScene("MazeInstructions");
     }
 
 }

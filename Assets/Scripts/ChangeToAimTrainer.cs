@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class ClickController : MonoBehaviour
+public class ChangeToAimTrainer : MonoBehaviour
 {
     private void OnMouseDown(){
-        SceneManager.LoadScene("AimTrainer");
+        SceneManager.LoadScene("AimTrainerInstructions");
     }
 
 }

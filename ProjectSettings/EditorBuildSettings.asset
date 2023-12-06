@@ -14,4 +14,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Maze.unity
     guid: b94fcf908621f284ebb9590a13e5a132
+  - enabled: 1
+    path: Assets/Scenes/Concussion.unity
+    guid: 8e560a6cbc0e36d4980a20d1c957e144
+  - enabled: 1
+    path: Assets/Scenes/MazeInstructions.unity
+    guid: e1c75415d6838f84ca703fd7e043b886
+  - enabled: 1
+    path: Assets/Scenes/AimTrainerInstructions.unity
+    guid: 7dcbba3432dd4a04aae9a87d167f8736
+  - enabled: 1
+    path: Assets/Scenes/ConcussionInstructions.unity
+    guid: c14ee8830022ade49ac5ea662c94fa7c
+  - enabled: 1
+    path: Assets/Scenes/SearchInstructions.unity
+    guid: d809e5fc0531ab04693d91360c9394cf
+  - enabled: 1
+    path: Assets/Scenes/Search.unity
+    guid: 02d7b3167ed6be845a7f868836409ddf
   m_configObjects: {}
