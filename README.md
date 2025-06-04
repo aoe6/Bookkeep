@@ -1,0 +1,1 @@
+Bookkeep, later known as Facility X, is a project I worked in with my classmate Grace. I was in charge of programming and the games, whereas she was in charge of the art. Through our collaboration, we put this project together.
